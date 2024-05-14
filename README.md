@@ -2,11 +2,11 @@
 
 I'm infatuated with learning and sharing code.
 
-![agalcalledjen's Stats](https://github-readme-stats.vercel.app/api?username=agalcalledjen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+<!-- ![agalcalledjen's Stats](https://github-readme-stats.vercel.app/api?username=agalcalledjen&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
 ## 👩🏻‍💻 About Me
 
-- 🔭 I'm looking to collaborate on software engineering opportunities.
+- 🔭 I'm looking to collaborate on software engineering opportunities. -->
 
 ## 🛠️ Tech Stack
 <p align="center">
