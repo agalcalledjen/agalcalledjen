@@ -17,10 +17,17 @@ I'm infatuated with learning and sharing code.
 
 ## 🌱 Currently Exploring
 
+<!--
 - 🚀 Learning GreenSock Animation Platform (GSAP)
   - Exploring the ins and outs of animation basics.
   - Building scroll-driven animations to animate existing CSS animations.
   - Diving into SVG animations for its benefits of being lightweight and fast-loading.
+-->
+- 🚀 Learning .NET Core
+  - .NET Tools and Runtime
+  - C# Basics
+  - ASP.NET Core Basics
+  - Entity Framework (EF) Core Basics   
 
  ## 🏆 Achievements
 
